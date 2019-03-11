@@ -14,4 +14,14 @@
     <string name="btn_join">Unete</string>
     <string name="toolbar_create">Create Account</string>
     <string name="hint_apellido">Apellidos:</string>
+    <string name="autor_cardview">Edwin palacios</string>
+    <string name="s_time_cardview">Hace</string>
+    <string name="s_time2_cardview">4 días</string>
+    <string name="s_like_cardview">12 likes</string>
+    <string name="s_bb_search">Search</string>
+    <string name="s_bb_home">Home</string>
+    <string name="s_bb_profile">Me</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

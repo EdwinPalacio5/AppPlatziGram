@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <tabs>
+        <tab
+            id="@+id/search"
+            title="@string/s_bb_search"
+            barColorWhenSelected="@color/colorPrimary"
+            icon="@drawable/ic_search"
+            />
+
+        <tab
+            id="@+id/home"
+            title="@string/s_bb_home"
+            barColorWhenSelected="@color/colorPrimary"
+            icon="@drawable/ic_home"
+            />
+
+        <tab
+            id="@+id/profile"
+            title="@string/s_bb_profile"
+            barColorWhenSelected="@color/colorPrimary"
+            icon="@drawable/ic_user"
+            />
+
+    </tabs>
+</PreferenceScreen>

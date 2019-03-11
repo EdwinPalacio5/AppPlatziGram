@@ -4,4 +4,12 @@
     <dimen name="padding_horizontal_login">32dp</dimen>
     <dimen name="dont_have_account">14sp</dimen>
     <dimen name="margin_create">10dp</dimen>
+    <dimen name="picture_cardview">200dp</dimen>
+    <dimen name="corner_cardview">4dp</dimen>
+    <dimen name="paddig_cardview">16dp</dimen>
+    <dimen name="et_size_cardview">20sp</dimen>
+    <dimen name="padding_espacio_card">5dp</dimen>
+    <dimen name="dimen_fivedp">5dp</dimen>
+    <dimen name="et_size_time">16sp</dimen>
+    <dimen name="seventydp">70dp</dimen>
 </resources>

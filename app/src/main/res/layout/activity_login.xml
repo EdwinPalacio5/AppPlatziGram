@@ -74,6 +74,7 @@
                     android:layout_height="wrap_content"
                     android:text="@string/login"
                     android:theme="@style/btn_dark"
+                    android:onClick="goHome"
                     />
 
                 <RelativeLayout
