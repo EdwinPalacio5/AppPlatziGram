@@ -7,6 +7,14 @@
     android:layout_height="match_parent"
     tools:context=".view.ContainerActivity">
 
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/container"
+        android:paddingBottom="@dimen/seventydp">
+
+    </FrameLayout>
+
     <include layout="@layout/bottonbar"></include>
 
 </RelativeLayout>
